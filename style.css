@@ -27,9 +27,9 @@ p {
 .sileo {
     border-radius: 9px;
     background: #000000;
-    padding: 10px;
-    margin: 6px;
     width: 50%;
+    margin: 5px;
+    padding: 10px;
     font-weight: bold;
     color: white;
     text-decoration: none;
