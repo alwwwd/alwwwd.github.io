@@ -4,7 +4,7 @@ Architecture: iphoneos-arm64
 Maintainer: AnthoPak <anthopakdev@gmail.com>
 Installed-Size: 1452
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 12.0)
-Filename: ../debs/com.anthopak.lastlook_4.0.3_iphoneos-arm64.deb
+Filename: ./debs/com.anthopak.lastlook_4.0.3_iphoneos-arm64.deb
 Size: 416072
 MD5sum: 4da38d9a3b0409809e316a0f504679ce
 SHA1: 09a4195ec3ec5de04ccfda3f0c7721e42add76e4
@@ -17,13 +17,28 @@ Depiction: https://chariz.com/buy/lastlook
 Icon: https://img.chariz.cloud/icon/lastlook/icon@3x.png
 Name: LastLook
 
+Package: com.check0ver.ViolaDarkRootless
+Version: 1.9.3
+Architecture: iphoneos-arm64
+Maintainer: bossgfx
+Filename: ./debs/com.check0ver.ViolaDarkRootless_1.9.3.deb
+Size: 32884908
+MD5sum: 4cffe2d055039938d2eea471023f845b
+SHA1: 432bec92ec324e98a8123e7f4078e65c8ac2cfa0
+SHA256: db519cee9ba6d0dd5942be28f7180620eb371118d4e1a7034c18d00b01782bf6
+Section: Themes
+Description: For OLED devices & Black lovers!
+Author: Bousrih
+Icon: https://check0ver.com/icon/icon1.png
+Name: Viola Dark Rootless
+
 Package: com.mtac.lynxtwo
 Version: 2.5
 Architecture: iphoneos-arm64
 Maintainer: MTAC
 Installed-Size: 2604
 Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
-Filename: ../debs/com.mtac.lynxtwo_2.5_iphoneos-arm64.deb
+Filename: ./debs/com.mtac.lynxtwo_2.5_iphoneos-arm64.deb
 Size: 566612
 MD5sum: 2a1a42ce2a25d16e64836f2d6bfa5c2f
 SHA1: 322ca73cc349910a6b4a9432e6f6f6ea807be841
@@ -39,7 +54,7 @@ Architecture: iphoneos-arm64
 Maintainer: Ethan Whited
 Installed-Size: 1060
 Depends: preferenceloader
-Filename: ../debs/com.nahtedetihw.airpodscompanion_1.2_iphoneos-arm64.deb
+Filename: ./debs/com.nahtedetihw.airpodscompanion_1.2_iphoneos-arm64.deb
 Size: 461016
 MD5sum: bb070caac2d00b72f15377ba43da5b3b
 SHA1: 0b1c17a54eeadad17933c9221e33ce283a6c2952
@@ -55,7 +70,7 @@ Architecture: iphoneos-arm64
 Maintainer: Snail <mu514983786@gmail.com>
 Installed-Size: 728
 Depends: mobilesubstrate (>= 0.9.5000),preferenceloader,com.opa334.altlist
-Filename: ../debs/com.snail.always120.global_1.1.4_iphoneos-arm64.deb
+Filename: ./debs/com.snail.always120.global_1.1.4_iphoneos-arm64.deb
 Size: 176262
 MD5sum: 6b57e6eac7a78328e6f6d735d74aa57b
 SHA1: 1c8f15f42b9cb1829580076074fe03188a140774
@@ -71,7 +86,7 @@ Architecture: iphoneos-arm64
 Maintainer: yan
 Installed-Size: 536
 Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, firmware(>= 14.0), com.mrgcgamer.libgcuniversal
-Filename: ../debs/com.yan.fiona_1.0.3_iphoneos-arm64.deb
+Filename: ./debs/com.yan.fiona_1.0.3_iphoneos-arm64.deb
 Size: 114894
 MD5sum: 0bf91b56cb706d07c05dfa40026c4163
 SHA1: 1b1b4f3e4996448748211676aecc6d3364ae513e
@@ -89,7 +104,7 @@ Maintainer: Theos Team <theos@kabiroberai.com>
 Installed-Size: 484
 Depends: firmware (>= 14.0), firmware (<< 17.7), mobilesubstrate (>= 0.9.5000)
 Provides: dev.theos.orion (= 1.0.1)
-Filename: ../debs/dev.theos.orion14_1.0.1_iphoneos-arm64.deb
+Filename: ./debs/dev.theos.orion14_1.0.1_iphoneos-arm64.deb
 Size: 93724
 MD5sum: 2cb1157b5cd82a1664966fc303f051a3
 SHA1: e75014fe90750fb973f9efeba0a147bc91db596c
@@ -106,7 +121,7 @@ Architecture: iphoneos-arm64
 Maintainer: alex
 Installed-Size: 220
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ../debs/org.alwwwd.reword.deb
+Filename: ./debs/org.alwwwd.reword.deb
 Size: 7172
 MD5sum: 8454aa3a9e865b5b6a0b38f3df5e7173
 SHA1: 57c0d7648f6a412bb0ae3bb10aa1d924304135f8
@@ -122,7 +137,7 @@ Architecture: iphoneos-arm64
 Maintainer: sourcelocation
 Installed-Size: 920
 Depends: dev.theos.orion14, firmware (>= 14.0), com.opa334.ccsupport (>= 1.3.7), com.ginsu.comet
-Filename: ../debs/ovh.exerhythm.cardculator_2.1.1_iphoneos-arm64.deb
+Filename: ./debs/ovh.exerhythm.cardculator_2.1.1_iphoneos-arm64.deb
 Size: 122432
 MD5sum: 68f159140c8a0e23dcfffe6320478f13
 SHA1: f374f394b8ae9ec855cec1af92d7f9589405b976
