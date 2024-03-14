@@ -90,15 +90,15 @@ Installed-Size: 484
 Depends: firmware (>= 14.0), firmware (<< 17.7), mobilesubstrate (>= 0.9.5000)
 Provides: dev.theos.orion (= 1.0.1)
 Filename: ../debs/dev.theos.orion14_1.0.1_iphoneos-arm64.deb
-Size: 93784
-MD5sum: 603a77057ea4cfdb770ba6665459dfe3
-SHA1: 8a59559c6e12c937886bab981c1d97f90c322c46
-SHA256: 5e604ca79a192e64ab23a58ae2b0434ca2781eaa26b39d9a037c7ed3e552e929
+Size: 93724
+MD5sum: 2cb1157b5cd82a1664966fc303f051a3
+SHA1: e75014fe90750fb973f9efeba0a147bc91db596c
+SHA256: cf0ac7d31eaabf40032ac2168fb301ca5157cbc7e56ba215baacaa6cfe21c8b9
 Section: System
 Description: Runtime for tweaks built using Orion and Swift, iOS 17 supported
 Tag: role::developer
 Author: Theos Team <theos@kabiroberai.com>
-Name: Orion (iOS 14-16)
+Name: Orion (iOS 14-17)
 
 Package: org.alwwwd.rewordcrack
 Version: 1.0
