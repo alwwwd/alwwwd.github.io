@@ -1,17 +1,43 @@
-Package: Flex3 beta
+Package: Flex3beta
 Version: 1:3~Beta61
 Architecture: iphoneos-arm64
 Maintainer: John Coates
 Depends: mobilesubstrate, firmware (>= 9.0)
 Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
 Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
-Filename: ../debs/Flex3beta_Beta61-rootless.deb
+Filename: ./debs/Flex3beta_Beta61-rootless.deb
 Size: 15180808
 MD5sum: 6af019a30618d534c70a60090e30467a
 SHA1: efb1280446ac55006d14b3d13de9c53fda48ec67
 SHA256: d11879dfcd225a28704ccdf53f222c2422303c319aae07388bf2613a3c2318c9
-Section: Development
-Description: Develop your own tweaks and share them on the Flex Community Cloud.
+Section: rootless插件
+Description: Develop your own tweaks and share them on the Flex Community Cloud，当前应用不可解析，等待更新，无需Legacy arm64e Support和去路径添加bundle，你可以脱壳主程序解析凑合用，或者用云端补丁，也可以别的手机解析文档过渡一下.
+Author: John Coates
+Name: Flex 3 Beta-rootless
+Recommended: com.rpetrich.rocketbootstrap
+
+Package: com.afnanahmad.chromahomebarx
+Version: 0.4
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 642
+Depends: firmware(>= 11.0), mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, firmware (<< 15.0) | cy+cpu.arm64v8 | oldabi
+Filename: ./debs/com.afnanahmad.chromahomebarx_0.4_iphoneos-arm64.deb
+Size: 83516
+MD5sum: 6a0f30961cdadd7089aeba9ebf04cf45
+SHA1: 7c68a35119713ccf562d59939a4ed1af65dc6fec
+SHA256: 306f4b3979582c2a99955ded9a3ad063a5be7c3199fc3327a2712cc40131086e
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=chromahomebarxDp
+Description: Razer Chroma insprird HomeBar coloring tweak for iPhone X, also works with LittleX.
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Author: Afnan Ahmad <afnanahmaddd@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=chromahomebarxDp
+Dev: afnanahmad
+Icon: file:///Library/PreferenceBundles/ChromaHomeBarX.bundle/chroma@2x.png
+Name: ChromaHomeBarX
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.anthopak.lastlook
 Version: 4.0.3
@@ -19,7 +45,7 @@ Architecture: iphoneos-arm64
 Maintainer: AnthoPak <anthopakdev@gmail.com>
 Installed-Size: 1452
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 12.0)
-Filename: ../debs/com.anthopak.lastlook_4.0.3_iphoneos-arm64.deb
+Filename: ./debs/com.anthopak.lastlook_4.0.3_iphoneos-arm64.deb
 Size: 416072
 MD5sum: 4da38d9a3b0409809e316a0f504679ce
 SHA1: 09a4195ec3ec5de04ccfda3f0c7721e42add76e4
@@ -36,7 +62,7 @@ Package: com.check0ver.ViolaDarkRootless
 Version: 1.9.3
 Architecture: iphoneos-arm64
 Maintainer: bossgfx
-Filename: ../debs/com.check0ver.ViolaDarkRootless_1.9.3.deb
+Filename: ./debs/com.check0ver.ViolaDarkRootless_1.9.3.deb
 Size: 32884908
 MD5sum: 4cffe2d055039938d2eea471023f845b
 SHA1: 432bec92ec324e98a8123e7f4078e65c8ac2cfa0
@@ -53,7 +79,7 @@ Architecture: iphoneos-arm64
 Maintainer: MTAC
 Installed-Size: 2604
 Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
-Filename: ../debs/com.mtac.lynxtwo_2.5_iphoneos-arm64.deb
+Filename: ./debs/com.mtac.lynxtwo_2.5_iphoneos-arm64.deb
 Size: 566612
 MD5sum: 2a1a42ce2a25d16e64836f2d6bfa5c2f
 SHA1: 322ca73cc349910a6b4a9432e6f6f6ea807be841
@@ -69,7 +95,7 @@ Architecture: iphoneos-arm64
 Maintainer: Ethan Whited
 Installed-Size: 1060
 Depends: preferenceloader
-Filename: ../debs/com.nahtedetihw.airpodscompanion_1.2_iphoneos-arm64.deb
+Filename: ./debs/com.nahtedetihw.airpodscompanion_1.2_iphoneos-arm64.deb
 Size: 461016
 MD5sum: bb070caac2d00b72f15377ba43da5b3b
 SHA1: 0b1c17a54eeadad17933c9221e33ce283a6c2952
@@ -85,7 +111,7 @@ Architecture: iphoneos-arm64
 Maintainer: Snail <mu514983786@gmail.com>
 Installed-Size: 728
 Depends: mobilesubstrate (>= 0.9.5000),preferenceloader,com.opa334.altlist
-Filename: ../debs/com.snail.always120.global_1.1.4_iphoneos-arm64.deb
+Filename: ./debs/com.snail.always120.global_1.1.4_iphoneos-arm64.deb
 Size: 176262
 MD5sum: 6b57e6eac7a78328e6f6d735d74aa57b
 SHA1: 1c8f15f42b9cb1829580076074fe03188a140774
@@ -101,7 +127,7 @@ Architecture: iphoneos-arm64
 Maintainer: yan
 Installed-Size: 536
 Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, firmware(>= 14.0), com.mrgcgamer.libgcuniversal
-Filename: ../debs/com.yan.fiona_1.0.3_iphoneos-arm64.deb
+Filename: ./debs/com.yan.fiona_1.0.3_iphoneos-arm64.deb
 Size: 114894
 MD5sum: 0bf91b56cb706d07c05dfa40026c4163
 SHA1: 1b1b4f3e4996448748211676aecc6d3364ae513e
@@ -119,7 +145,7 @@ Maintainer: Theos Team <theos@kabiroberai.com>
 Installed-Size: 484
 Depends: firmware (>= 14.0), firmware (<< 17.7), mobilesubstrate (>= 0.9.5000)
 Provides: dev.theos.orion (= 1.0.1)
-Filename: ../debs/dev.theos.orion14_1.0.1_iphoneos-arm64.deb
+Filename: ./debs/dev.theos.orion14_1.0.1_iphoneos-arm64.deb
 Size: 93724
 MD5sum: 2cb1157b5cd82a1664966fc303f051a3
 SHA1: e75014fe90750fb973f9efeba0a147bc91db596c
@@ -136,7 +162,7 @@ Architecture: iphoneos-arm64
 Maintainer: alex
 Installed-Size: 220
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ../debs/org.alwwwd.reword.deb
+Filename: ./debs/org.alwwwd.reword.deb
 Size: 7172
 MD5sum: 8454aa3a9e865b5b6a0b38f3df5e7173
 SHA1: 57c0d7648f6a412bb0ae3bb10aa1d924304135f8
@@ -152,7 +178,7 @@ Architecture: iphoneos-arm64
 Maintainer: sourcelocation
 Installed-Size: 920
 Depends: dev.theos.orion14, firmware (>= 14.0), com.opa334.ccsupport (>= 1.3.7), com.ginsu.comet
-Filename: ../debs/ovh.exerhythm.cardculator_2.1.1_iphoneos-arm64.deb
+Filename: ./debs/ovh.exerhythm.cardculator_2.1.1_iphoneos-arm64.deb
 Size: 122432
 MD5sum: 68f159140c8a0e23dcfffe6320478f13
 SHA1: f374f394b8ae9ec855cec1af92d7f9589405b976
