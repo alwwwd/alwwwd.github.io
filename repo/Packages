@@ -23,10 +23,10 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 642
 Depends: firmware(>= 11.0), mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, firmware (<< 15.0) | cy+cpu.arm64v8 | oldabi
 Filename: ./debs/com.afnanahmad.chromahomebarx_0.4_iphoneos-arm64.deb
-Size: 83516
-MD5sum: 6a0f30961cdadd7089aeba9ebf04cf45
-SHA1: 7c68a35119713ccf562d59939a4ed1af65dc6fec
-SHA256: 306f4b3979582c2a99955ded9a3ad063a5be7c3199fc3327a2712cc40131086e
+Size: 83856
+MD5sum: a1bb9a842b9f48107e87ac7e8703c9de
+SHA1: e9fef23f31a4524edf9952cd8c3fdcefe27d8e67
+SHA256: 6bf86c5f3db02f2f5af037985ab5c2b4392d828cce095d131339f83bc4493ba2
 Section: Tweaks
 Priority: optional
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=chromahomebarxDp
@@ -80,13 +80,14 @@ Maintainer: MTAC
 Installed-Size: 2604
 Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
 Filename: ./debs/com.mtac.lynxtwo_2.5_iphoneos-arm64.deb
-Size: 566612
-MD5sum: 2a1a42ce2a25d16e64836f2d6bfa5c2f
-SHA1: 322ca73cc349910a6b4a9432e6f6f6ea807be841
-SHA256: 29f9ae88eb214f2a004dbf17136d429e95508ad3d4ebeb7f15dd597c6a00b941
+Size: 568020
+MD5sum: a15951558c6d33f7604faa08ecc0d6ad
+SHA1: 9512781e0a41b62350dbd6beca24354e9155af1b
+SHA256: e7418d92d5d881099f39fea75a6452155b9ac3d3e6bf66bdff7e4ed8f1e5d21b
 Section: Tweaks
 Description: Ultimate iDevice Customization for iOS 14, 15 & 16
 Author: MTAC
+Icon: https://media.havoc.app/64a1d7f9351a82652447cb09?w=3840&q=75
 Name: Lynx 2
 
 Package: com.nahtedetihw.airpodscompanion
@@ -96,13 +97,14 @@ Maintainer: Ethan Whited
 Installed-Size: 1060
 Depends: preferenceloader
 Filename: ./debs/com.nahtedetihw.airpodscompanion_1.2_iphoneos-arm64.deb
-Size: 461016
-MD5sum: bb070caac2d00b72f15377ba43da5b3b
-SHA1: 0b1c17a54eeadad17933c9221e33ce283a6c2952
-SHA256: 9a9a1095a608b4a2a0d9cf0e0d0f5960d903facb4fe243aa9a6839e3720dd2fd
+Size: 461028
+MD5sum: 70af5b3a394bbb477a15c7e11d9d51ad
+SHA1: a96f1bb54c2ac5252efc2b6069478d5d4c350d18
+SHA256: f60d3782e5ca810a253bdd24fe463978a6ba74ac760d194c5cc18eac086e9bf3
 Section: Tweaks
 Description: Floating Noise Cancellation control next to volume slider
 Author: Ethan Whited
+Icon: https://media.havoc.app/65e4177bc97a362fa842d940?w=3840&q=75
 Name: AirpodsCompanion
 
 Package: com.snail.always120.global
@@ -112,13 +114,14 @@ Maintainer: Snail <mu514983786@gmail.com>
 Installed-Size: 728
 Depends: mobilesubstrate (>= 0.9.5000),preferenceloader,com.opa334.altlist
 Filename: ./debs/com.snail.always120.global_1.1.4_iphoneos-arm64.deb
-Size: 176262
-MD5sum: 6b57e6eac7a78328e6f6d735d74aa57b
-SHA1: 1c8f15f42b9cb1829580076074fe03188a140774
-SHA256: a867b6bf52bc8c642450bdea09b2e80828d8358ec895be6381638fe46a6a40b9
+Size: 170332
+MD5sum: 0899889d4ce7cd7ab25ccf7c0e97f431
+SHA1: fd0914a018a7ed3b4cdcd75e326f3138997ed874
+SHA256: 937ddee3baf53d5df4e6b06d9583b0335b90c5eb0e63afd57d3e50153a11cc4d
 Section: Tweaks
 Description: 使iOS 15越狱高刷机型自适应/锁定120HZ。 Make iOS 15 ProMotion Devices auto-adpat/reach to 120Hz.
 Author: Snail <mu514983786@gmail.com>
+Icon: https://media.havoc.app/64ab7404d8f6312267aee7f5?w=3840&q=75
 Name: 蜗牛自适应+锁定120 Always120
 
 Package: com.yan.fiona
@@ -163,13 +166,14 @@ Maintainer: alex
 Installed-Size: 220
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/org.alwwwd.reword.deb
-Size: 7172
-MD5sum: 8454aa3a9e865b5b6a0b38f3df5e7173
-SHA1: 57c0d7648f6a412bb0ae3bb10aa1d924304135f8
-SHA256: c5e8b49c38e71cb4a92540ea4571bd10ccebbe267fd90630712f52d3de3ff5d4
+Size: 7296
+MD5sum: fde88ba703db3fc72c34414d2644441b
+SHA1: cc69d03820aa35e7e7f2959bd25e6f241b1c9a52
+SHA256: c37bb2647c77ab6ebf874e6896576296dbc601879ecc58c1e05f22525df2e85b
 Section: Tweaks
 Description: Reword crack
 Author: alex
+Icon: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/58/f5/2b/58f52b0d-ed27-5408-58b2-5b92ecb58241/AppIcon_en-0-0-1x_U007epad-0-10-0-85-220.png/460x0w.png
 Name: reward
 
 Package: ovh.exerhythm.cardculator
@@ -179,12 +183,13 @@ Maintainer: sourcelocation
 Installed-Size: 920
 Depends: dev.theos.orion14, firmware (>= 14.0), com.opa334.ccsupport (>= 1.3.7), com.ginsu.comet
 Filename: ./debs/ovh.exerhythm.cardculator_2.1.1_iphoneos-arm64.deb
-Size: 122432
-MD5sum: 68f159140c8a0e23dcfffe6320478f13
-SHA1: f374f394b8ae9ec855cec1af92d7f9589405b976
-SHA256: 41aa55a18e86ec902e2a10f7649ad06f43f8db4a177d8deacf8d3070d6059da7
+Size: 122524
+MD5sum: f424d844f6f77d5fa55710a1e373b298
+SHA1: fbf830559f1a14f1175c0b649550d8942afc655d
+SHA256: 91d7c5c6c426b334985a890dc98a183d4dee16b67678cd63f7e54e712bda5970
 Section: Tweaks
 Description: Calculator, but smaller
 Author: sourcelocation
+Icon: https://media.havoc.app/627ad1f664d09c07d4a40439?w=3840&q=75
 Name: Cardculator
 
