@@ -73,6 +73,25 @@ Author: Bousrih
 Icon: https://check0ver.com/icon/icon1.png
 Name: Viola Dark Rootless
 
+Package: com.kdt.trollpad
+Version: 1.2.3
+Architecture: iphoneos-arm64
+Maintainer: khanhduytran0
+Installed-Size: 536
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), plistbuddy
+Filename: ./debs/com.kdt.trollpad_1.2.3_iphoneos-arm64.deb
+Size: 27884
+MD5sum: a6c17ca8153def61a0b1a5c066167fc6
+SHA1: 0916638a3d06e7d5bd33bd61bc43a364b716447f
+SHA256: 4126f6e4ddfb94eff575ec2728e7630492f40888628b2fff7326dfc9d055b728
+Section: Tweaks
+Description: Troll SpringBoard into thinking it's running on iPadOS.
+Author: khanhduytran0
+Depiction: https://khanhduytran0.github.io/repo/depictions/web/?p=com.kdt.trollpad
+Icon: https://raw.githubusercontent.com/khanhduytran0/TrollPad/main/TrollPadPrefs/Resources/Icon%403x.png
+Name: TrollPad
+Sileodepiction: https://khanhduytran0.github.io/repo/depictions/native/com.kdt.trollpad/depiction.json
+
 Package: com.mtac.lynxtwo
 Version: 2.5
 Architecture: iphoneos-arm64
