@@ -111,6 +111,23 @@ Icon: https://raw.githubusercontent.com/khanhduytran0/TrollPad/main/TrollPadPref
 Name: TrollPad
 Sileodepiction: https://khanhduytran0.github.io/repo/depictions/native/com.kdt.trollpad/depiction.json
 
+Package: com.mtac.alpine
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: MTAC
+Installed-Size: 1112
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common
+Filename: ./debs/com.mtac.alpine_1.4_iphoneos-arm64.deb
+Size: 601876
+MD5sum: cb99dffd420fbcf3d6e79dd75e6795c6
+SHA1: b464e32776a977172ca554dd6533c19954051ae5
+SHA256: 98be8580f95d7ca032a8577a36658fd04478608a7d90a7662ecd9f0446d0e4e0
+Section: Tweaks
+Description: tvOS alerts for iOS
+Author: MTAC
+Icon: https://media.havoc.app/64ae21880d54f9113bc13a59?w=3840&q=75
+Name: Alpine
+
 Package: com.mtac.lynxtwo
 Version: 2.5
 Architecture: iphoneos-arm64
