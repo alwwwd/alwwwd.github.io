@@ -179,6 +179,23 @@ Author: Snail <mu514983786@gmail.com>
 Icon: https://media.havoc.app/64ab7404d8f6312267aee7f5?w=3840&q=75
 Name: 蜗牛自适应+锁定120 Always120
 
+Package: com.uckermark.siriplus
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Uckermark
+Installed-Size: 1104
+Depends: dev.theos.orion (>= 1.0.0), com.ginsu.comet, com.opa334.ccsupport, mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.uckermark.siriplus_1.1_iphoneos-arm64.deb
+Size: 163608
+MD5sum: 0a0131996a35888fdae3bff42a5e3393
+SHA1: 361e1f7e260cf731dec491506ba9ff9afd25e541
+SHA256: 216b5efaf7bf819ccc082386efc5c6237000a0fa3269f807ab6f6ebbdb9891f0
+Section: Tweaks
+Description: Replace Siri with ChatGPT/Gemini
+Author: Uckermark
+Icon: https://media.havoc.app/65e33489f1efdf19d02cf252?w=3840&q=75
+Name: SiriPlus
+
 Package: dev.theos.orion14
 Version: 1.0.1
 Architecture: iphoneos-arm64
