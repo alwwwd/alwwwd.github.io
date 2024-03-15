@@ -23,10 +23,10 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 642
 Depends: firmware(>= 11.0), mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, firmware (<< 15.0) | cy+cpu.arm64v8 | oldabi
 Filename: ./debs/com.afnanahmad.chromahomebarx_0.4_iphoneos-arm64.deb
-Size: 83460
-MD5sum: 0397fb7774e674116f6ce9660edd14b3
-SHA1: afe21771895e5d8afc62b29e3ca158c20a358543
-SHA256: 9e7a730ea3d193d5a7e4b0a75d60357f03f8aba4fa34559a30962b3262349fa3
+Size: 83836
+MD5sum: c54700bf9e480c02fea71e88b7f1ba15
+SHA1: 540e9403fbff44d09154920ec445b4dcc75635db
+SHA256: b1cab37b5ac710bd4478cf5696c5ff413540836639f369a380a2cb9a71294025
 Section: Tweaks
 Priority: optional
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=chromahomebarxDp
