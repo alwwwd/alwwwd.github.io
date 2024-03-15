@@ -73,6 +73,25 @@ Author: Bousrih
 Icon: https://check0ver.com/icon/icon1.png
 Name: Viola Dark Rootless
 
+Package: com.dcproducts.iossecuritysuitebypass
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Derek Calabro
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dcproducts.iossecuritysuitebypass_v1.0.0_iphoneos-arm64.deb
+Size: 2508
+MD5sum: 3ef90ef91bca136ef5f92cb9f4706da4
+SHA1: 806a6ad9cea47a09c6c8dc92a2798ce619dd5f19
+SHA256: 78523cbbb67a11043be7238c2ca535f8e8835d7244096d8c8a729fca3139a825
+Section: Tweaks
+Description: A bypass for the iOSSecuritySuite Swift library.
+Author: Derek Calabro
+Depiction: https://dtcalabro.github.io/repo/depictions/?p=com.dcproducts.iossecuritysuitebypass
+Icon: https://dtcalabro.github.io/repo/depictions/com.dcproducts.iossecuritysuitebypass/icon.png
+Name: iOSSecuritySuiteBypass
+Sileodepiction: https://dtcalabro.github.io/repo/depictions/com.dcproducts.iossecuritysuitebypass/depiction.json
+
 Package: com.kdt.trollpad
 Version: 1.2.3
 Architecture: iphoneos-arm64
