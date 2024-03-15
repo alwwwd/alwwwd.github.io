@@ -6,10 +6,10 @@ Depends: mobilesubstrate, firmware (>= 9.0)
 Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
 Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
 Filename: ./debs/Flex3beta_Beta61-rootless.deb
-Size: 15180808
-MD5sum: 6af019a30618d534c70a60090e30467a
-SHA1: efb1280446ac55006d14b3d13de9c53fda48ec67
-SHA256: d11879dfcd225a28704ccdf53f222c2422303c319aae07388bf2613a3c2318c9
+Size: 15180584
+MD5sum: 3e075c96986f5ad41307f7aead5de87b
+SHA1: 29dbfac67d294e7f2a93b8cad582dcca46a55692
+SHA256: c7de7824f083d216ba0cbd609523e678020df232c23b2ee8d636d4a789bbf3cd
 Section: rootless插件
 Description: Develop your own tweaks and share them on the Flex Community Cloud，当前应用不可解析，等待更新，无需Legacy arm64e Support和去路径添加bundle，你可以脱壳主程序解析凑合用，或者用云端补丁，也可以别的手机解析文档过渡一下.
 Author: John Coates
@@ -23,10 +23,10 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 642
 Depends: firmware(>= 11.0), mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, firmware (<< 15.0) | cy+cpu.arm64v8 | oldabi
 Filename: ./debs/com.afnanahmad.chromahomebarx_0.4_iphoneos-arm64.deb
-Size: 83856
-MD5sum: a1bb9a842b9f48107e87ac7e8703c9de
-SHA1: e9fef23f31a4524edf9952cd8c3fdcefe27d8e67
-SHA256: 6bf86c5f3db02f2f5af037985ab5c2b4392d828cce095d131339f83bc4493ba2
+Size: 83460
+MD5sum: 0397fb7774e674116f6ce9660edd14b3
+SHA1: afe21771895e5d8afc62b29e3ca158c20a358543
+SHA256: 9e7a730ea3d193d5a7e4b0a75d60357f03f8aba4fa34559a30962b3262349fa3
 Section: Tweaks
 Priority: optional
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=chromahomebarxDp
@@ -35,21 +35,21 @@ Tag: purpose::extension, compatible::ios11, compatible::ios12
 Author: Afnan Ahmad <afnanahmaddd@gmail.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=chromahomebarxDp
 Dev: afnanahmad
-Icon: file:///Library/PreferenceBundles/ChromaHomeBarX.bundle/chroma@2x.png
+Icon: http://cydia.saurik.com/icon@2x/com.afnanahmad.chromahomebarx.png
 Name: ChromaHomeBarX
 Sponsor: thebigboss.org <http://thebigboss.org>
 
-Package: com.anthopak.lastlook
+Package: com.anth0pak.lastlook
 Version: 4.0.3
 Architecture: iphoneos-arm64
 Maintainer: AnthoPak <anthopakdev@gmail.com>
 Installed-Size: 1452
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 12.0)
-Filename: ./debs/com.anthopak.lastlook_4.0.3_iphoneos-arm64.deb
-Size: 416072
-MD5sum: 4da38d9a3b0409809e316a0f504679ce
-SHA1: 09a4195ec3ec5de04ccfda3f0c7721e42add76e4
-SHA256: 741791fd8ee3538ee9d35d023e667cb7e2942716472df3f6cbaf582b5d0a379d
+Filename: ./debs/com.anth0pak.lastlook_4.0.3_iphoneos-arm64.deb
+Size: 415744
+MD5sum: 2ea114d512528116824f4f97a0e99b5b
+SHA1: 8536a81e9d5e5776e5d30d557a0247b55e116703
+SHA256: d3a244c00306d227aba1da11fd4e0166f15f814a980f0f3224ec7558b29a909f
 Section: Tweaks
 Description: An AOD tweak that feels stock, with endless possibilities!
 Tag: cydia::commercial, compatible_min::ios12.0
@@ -63,10 +63,10 @@ Version: 1.9.3
 Architecture: iphoneos-arm64
 Maintainer: bossgfx
 Filename: ./debs/com.check0ver.ViolaDarkRootless_1.9.3.deb
-Size: 32884908
-MD5sum: 4cffe2d055039938d2eea471023f845b
-SHA1: 432bec92ec324e98a8123e7f4078e65c8ac2cfa0
-SHA256: db519cee9ba6d0dd5942be28f7180620eb371118d4e1a7034c18d00b01782bf6
+Size: 32885228
+MD5sum: 5333e9aad7656381a197d411b2417714
+SHA1: 34dfcca6398e401d715e2dd5abd92dc99c4907a5
+SHA256: e09264aafff288f078c6adcabb937e09ddb0d38de43baf70c610c29ab49cd5a1
 Section: Themes
 Description: For OLED devices & Black lovers!
 Author: Bousrih
@@ -80,10 +80,10 @@ Maintainer: MTAC
 Installed-Size: 2604
 Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
 Filename: ./debs/com.mtac.lynxtwo_2.5_iphoneos-arm64.deb
-Size: 568020
-MD5sum: a15951558c6d33f7604faa08ecc0d6ad
-SHA1: 9512781e0a41b62350dbd6beca24354e9155af1b
-SHA256: e7418d92d5d881099f39fea75a6452155b9ac3d3e6bf66bdff7e4ed8f1e5d21b
+Size: 567572
+MD5sum: 06d208cbfa89d736b71571a29f615b3d
+SHA1: 3f5dbe534d5b1d560c860e43bfc39874a811d246
+SHA256: 7db7d6c2b4754195f39120121d55e8736104584eaa23c82be13f794f01e090b2
 Section: Tweaks
 Description: Ultimate iDevice Customization for iOS 14, 15 & 16
 Author: MTAC
@@ -97,10 +97,10 @@ Maintainer: Ethan Whited
 Installed-Size: 1060
 Depends: preferenceloader
 Filename: ./debs/com.nahtedetihw.airpodscompanion_1.2_iphoneos-arm64.deb
-Size: 461028
-MD5sum: 70af5b3a394bbb477a15c7e11d9d51ad
-SHA1: a96f1bb54c2ac5252efc2b6069478d5d4c350d18
-SHA256: f60d3782e5ca810a253bdd24fe463978a6ba74ac760d194c5cc18eac086e9bf3
+Size: 460480
+MD5sum: c91899dc33f77a3dc8de9ab6a9c6b836
+SHA1: 27cb7b9bfbb7a87809c2e790ff9c0b1a81863970
+SHA256: 9c237cd030adb0a35793d3d285339d83c13ec98dbed350c54a8aa6ec1ca30c4e
 Section: Tweaks
 Description: Floating Noise Cancellation control next to volume slider
 Author: Ethan Whited
@@ -114,32 +114,15 @@ Maintainer: Snail <mu514983786@gmail.com>
 Installed-Size: 728
 Depends: mobilesubstrate (>= 0.9.5000),preferenceloader,com.opa334.altlist
 Filename: ./debs/com.snail.always120.global_1.1.4_iphoneos-arm64.deb
-Size: 170332
-MD5sum: 0899889d4ce7cd7ab25ccf7c0e97f431
-SHA1: fd0914a018a7ed3b4cdcd75e326f3138997ed874
-SHA256: 937ddee3baf53d5df4e6b06d9583b0335b90c5eb0e63afd57d3e50153a11cc4d
+Size: 169892
+MD5sum: 2abbaefb970061f1379bae77d01aba76
+SHA1: 0e2395c653d0f5cbfa2cd65e291b4009293e2ecd
+SHA256: 0b916495f22870c617b8b42575e077cb2cf97de4287d2cafa843fc944ef4e585
 Section: Tweaks
 Description: 使iOS 15越狱高刷机型自适应/锁定120HZ。 Make iOS 15 ProMotion Devices auto-adpat/reach to 120Hz.
 Author: Snail <mu514983786@gmail.com>
 Icon: https://media.havoc.app/64ab7404d8f6312267aee7f5?w=3840&q=75
 Name: 蜗牛自适应+锁定120 Always120
-
-Package: com.yan.fiona
-Version: 1.0.3
-Architecture: iphoneos-arm64
-Maintainer: yan
-Installed-Size: 536
-Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, firmware(>= 14.0), com.mrgcgamer.libgcuniversal
-Filename: ./debs/com.yan.fiona_1.0.3_iphoneos-arm64.deb
-Size: 114894
-MD5sum: 0bf91b56cb706d07c05dfa40026c4163
-SHA1: 1b1b4f3e4996448748211676aecc6d3364ae513e
-SHA256: 3066c164c605ef088569522619d66387cb4a28f39db905110e17676b4486bb9c
-Section: Tweaks
-Description: Floating Tab bar for iOS devices.
-Author: yan
-Icon: https://yandevelop.github.io/assets/icons/fiona/icon.png
-Name: Fiona
 
 Package: dev.theos.orion14
 Version: 1.0.1
@@ -149,10 +132,10 @@ Installed-Size: 484
 Depends: firmware (>= 14.0), firmware (<< 17.7), mobilesubstrate (>= 0.9.5000)
 Provides: dev.theos.orion (= 1.0.1)
 Filename: ./debs/dev.theos.orion14_1.0.1_iphoneos-arm64.deb
-Size: 93724
-MD5sum: 2cb1157b5cd82a1664966fc303f051a3
-SHA1: e75014fe90750fb973f9efeba0a147bc91db596c
-SHA256: cf0ac7d31eaabf40032ac2168fb301ca5157cbc7e56ba215baacaa6cfe21c8b9
+Size: 93448
+MD5sum: 3be61001704fbdeb209b606786446c49
+SHA1: a3de2d7788326e7c03399c4bec9f224f19cf5157
+SHA256: b83251c44e0bfc3c5b2d0c1919585152bcc8451996295b22bf57cc790558e3ef
 Section: System
 Description: Runtime for tweaks built using Orion and Swift, iOS 17 supported
 Tag: role::developer
@@ -165,11 +148,11 @@ Architecture: iphoneos-arm64
 Maintainer: alex
 Installed-Size: 220
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/org.alwwwd.reword.deb
-Size: 7296
-MD5sum: fde88ba703db3fc72c34414d2644441b
-SHA1: cc69d03820aa35e7e7f2959bd25e6f241b1c9a52
-SHA256: c37bb2647c77ab6ebf874e6896576296dbc601879ecc58c1e05f22525df2e85b
+Filename: ./debs/org.alwwwd.reword_1.0_iphoneos-arm64.deb
+Size: 7044
+MD5sum: 2842930b7f1c7fc34d9901828bdb8ee4
+SHA1: 7a3c3a45a12aa34a4ebee146f788c48963d286ab
+SHA256: d57697fa43c9c27647811fe3c1787999bac1513e0cfea19db4167c75da8daa08
 Section: Tweaks
 Description: Reword crack
 Author: alex
@@ -183,10 +166,10 @@ Maintainer: sourcelocation
 Installed-Size: 920
 Depends: dev.theos.orion14, firmware (>= 14.0), com.opa334.ccsupport (>= 1.3.7), com.ginsu.comet
 Filename: ./debs/ovh.exerhythm.cardculator_2.1.1_iphoneos-arm64.deb
-Size: 122524
-MD5sum: f424d844f6f77d5fa55710a1e373b298
-SHA1: fbf830559f1a14f1175c0b649550d8942afc655d
-SHA256: 91d7c5c6c426b334985a890dc98a183d4dee16b67678cd63f7e54e712bda5970
+Size: 122692
+MD5sum: 5816e5011a297b6a5d86de9d79d91eab
+SHA1: c2e2e2303d9720e6e16e538fe11c7ab1bb8877ce
+SHA256: 330aaec80239ea775cc23c7b0415c822d64ac52e3ca99c2b4675ee6a7766575b
 Section: Tweaks
 Description: Calculator, but smaller
 Author: sourcelocation
