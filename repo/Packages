@@ -145,6 +145,24 @@ Author: MTAC
 Icon: https://media.havoc.app/64a1d7f9351a82652447cb09?w=3840&q=75
 Name: Lynx 2
 
+Package: com.mtac.lynxtwo.localizations
+Version: 2.5-2
+Architecture: iphoneos-arm64
+Maintainer: MTAC
+Installed-Size: 1012
+Depends: com.mtac.lynxtwo
+Filename: ./debs/com.mtac.lynxtwo.localizations_2.5-2_iphoneos-arm64.deb
+Size: 115810
+MD5sum: 40e64dbb8ffa80b50d2361a410c613e1
+SHA1: c20d29687e28198b272b06a57ef503e3a2ed3ec2
+SHA256: d9849adba9581f4cb064bc02225f4fc99910a45382b98667929b1f84ff76f5c2
+Section: Tweaks
+Description: Localization support for Lynx 2
+Author: MTAC
+Icon: https://mtac.app/repo/assets/com.mtac.lynxtwo.localizations/icon-rounded.png
+Name: Lynx 2 Localizations
+Sileodepiction: https://mtac.app/repo/depiction/native/com.mtac.lynxtwo.localizations.json
+
 Package: com.nahtedetihw.airpodscompanion
 Version: 1.2
 Architecture: iphoneos-arm64
