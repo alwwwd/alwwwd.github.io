@@ -146,16 +146,16 @@ Icon: https://media.havoc.app/64a1d7f9351a82652447cb09?w=3840&q=75
 Name: Lynx 2
 
 Package: com.mtac.lynxtwo.localizations
-Version: 2.5-2
+Version: 2.5.1-2
 Architecture: iphoneos-arm64
 Maintainer: MTAC
 Installed-Size: 1012
 Depends: com.mtac.lynxtwo
-Filename: ./debs/com.mtac.lynxtwo.localizations_2.5-2_iphoneos-arm64.deb
-Size: 115810
-MD5sum: 40e64dbb8ffa80b50d2361a410c613e1
-SHA1: c20d29687e28198b272b06a57ef503e3a2ed3ec2
-SHA256: d9849adba9581f4cb064bc02225f4fc99910a45382b98667929b1f84ff76f5c2
+Filename: ./debs/com.mtac.lynxtwo.localizations_2.5.1-2_iphoneos-arm64.deb
+Size: 116038
+MD5sum: 5c67af300d48f37ad821482a7299b6af
+SHA1: 24db4b834b59f97ec44bf8e605c4f7ae4baca0b7
+SHA256: ba27d141f0d1e0cebbdd27e0843792ee6b063f59c83f63206e77e9d36b5c8e4c
 Section: Tweaks
 Description: Localization support for Lynx 2
 Author: MTAC
