@@ -196,6 +196,25 @@ Author: Snail <mu514983786@gmail.com>
 Icon: https://media.havoc.app/64ab7404d8f6312267aee7f5?w=3840&q=75
 Name: 蜗牛自适应+锁定120 Always120
 
+Package: org.ewwad.lastlook
+Version: 4.1.1
+Architecture: iphoneos-arm64
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Installed-Size: 1505
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 12.0)
+Filename: ./debs/org.ewwad.lastlook_4.1.1_iphoneos-arm64.deb
+Size: 426420
+MD5sum: 3e275e35f4d05d3c51fd72c93baaaae9
+SHA1: 5c9fc67b879776437fa60f22392da4bc6a35e84d
+SHA256: 3580c2214db254316b87a226a44fe7a24abc75a462e5adab5290e2f85399cf03
+Section: Tweaks
+Description: An AOD tweak that feels stock, with endless possibilities!
+Tag: cydia::commercial, compatible_min::ios12.0
+Author: AnthoPak <anthopakdev@gmail.com>
+Depiction: https://chariz.com/buy/lastlook
+Icon: https://img.chariz.cloud/icon/lastlook/icon@3x.png
+Name: LastLook
+
 Package: org.ewwad.lynxtwo
 Version: 2.5
 Architecture: iphoneos-arm64
