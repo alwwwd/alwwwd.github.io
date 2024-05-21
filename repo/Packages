@@ -5,7 +5,7 @@ Maintainer: John Coates
 Depends: mobilesubstrate, firmware (>= 9.0)
 Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
 Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
-Filename: ./repo/debs/Flex3beta_Beta61-rootless.deb
+Filename: ./debs/Flex3beta_Beta61-rootless.deb
 Size: 15180584
 MD5sum: 3e075c96986f5ad41307f7aead5de87b
 SHA1: 29dbfac67d294e7f2a93b8cad582dcca46a55692
@@ -22,7 +22,7 @@ Architecture: iphoneos-arm64
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 642
 Depends: firmware(>= 11.0), mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, firmware (<< 15.0) | cy+cpu.arm64v8 | oldabi
-Filename: ./repo/debs/com.afnanahmad.chromahomebarx_0.4_iphoneos-arm64.deb
+Filename: ./debs/com.afnanahmad.chromahomebarx_0.4_iphoneos-arm64.deb
 Size: 83836
 MD5sum: c54700bf9e480c02fea71e88b7f1ba15
 SHA1: 540e9403fbff44d09154920ec445b4dcc75635db
@@ -43,7 +43,7 @@ Package: com.check0ver.ViolaDarkRootless
 Version: 1.9.3
 Architecture: iphoneos-arm64
 Maintainer: bossgfx
-Filename: ./repo/debs/com.check0ver.ViolaDarkRootless_1.9.3.deb
+Filename: ./debs/com.check0ver.ViolaDarkRootless_1.9.3.deb
 Size: 32885228
 MD5sum: 5333e9aad7656381a197d411b2417714
 SHA1: 34dfcca6398e401d715e2dd5abd92dc99c4907a5
@@ -60,7 +60,7 @@ Architecture: iphoneos-arm64
 Maintainer: Derek Calabro
 Installed-Size: 136
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./repo/debs/com.dcproducts.iossecuritysuitebypass_v1.0.0_iphoneos-arm64.deb
+Filename: ./debs/com.dcproducts.iossecuritysuitebypass_v1.0.0_iphoneos-arm64.deb
 Size: 2508
 MD5sum: 3ef90ef91bca136ef5f92cb9f4706da4
 SHA1: 806a6ad9cea47a09c6c8dc92a2798ce619dd5f19
@@ -79,7 +79,7 @@ Architecture: iphoneos-arm64
 Maintainer: khanhduytran0
 Installed-Size: 536
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), plistbuddy
-Filename: ./repo/debs/com.kdt.trollpad_1.2.3_iphoneos-arm64.deb
+Filename: ./debs/com.kdt.trollpad_1.2.3_iphoneos-arm64.deb
 Size: 27884
 MD5sum: a6c17ca8153def61a0b1a5c066167fc6
 SHA1: 0916638a3d06e7d5bd33bd61bc43a364b716447f
@@ -98,7 +98,7 @@ Architecture: iphoneos-arm64
 Maintainer: MTAC
 Installed-Size: 1012
 Depends: com.mtac.lynxtwo
-Filename: ./repo/debs/com.mtac.lynxtwo.localizations_2.5.1-2_iphoneos-arm64.deb
+Filename: ./debs/com.mtac.lynxtwo.localizations_2.5.1-2_iphoneos-arm64.deb
 Size: 116038
 MD5sum: 5c67af300d48f37ad821482a7299b6af
 SHA1: 24db4b834b59f97ec44bf8e605c4f7ae4baca0b7
@@ -117,7 +117,7 @@ Maintainer: Theos Team <theos@kabiroberai.com>
 Installed-Size: 484
 Depends: firmware (>= 14.0), firmware (<< 17.7), mobilesubstrate (>= 0.9.5000)
 Provides: dev.theos.orion (= 1.0.1)
-Filename: ./repo/debs/dev.theos.orion14_1.0.1_iphoneos-arm64.deb
+Filename: ./debs/dev.theos.orion14_1.0.1_iphoneos-arm64.deb
 Size: 93448
 MD5sum: 3be61001704fbdeb209b606786446c49
 SHA1: a3de2d7788326e7c03399c4bec9f224f19cf5157
@@ -134,7 +134,7 @@ Architecture: iphoneos-arm64
 Maintainer: alex
 Installed-Size: 220
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./repo/debs/org.alwwwd.reword_1.0_iphoneos-arm64.deb
+Filename: ./debs/org.alwwwd.reword_1.0_iphoneos-arm64.deb
 Size: 7044
 MD5sum: 2842930b7f1c7fc34d9901828bdb8ee4
 SHA1: 7a3c3a45a12aa34a4ebee146f788c48963d286ab
@@ -151,7 +151,7 @@ Architecture: iphoneos-arm64
 Maintainer: CoolStar
 Installed-Size: 4504
 Depends: mobilesubstrate
-Filename: ./repo/debs/org.coolstar.classicfolders2_3.0.4_iphoneos-arm64.deb
+Filename: ./debs/org.coolstar.classicfolders2_3.0.4_iphoneos-arm64.deb
 Size: 3318606
 MD5sum: c9deabf3084647b31696c6c8f43351a0
 SHA1: 40f5061970a3656f3543e6301429c3e290845395
@@ -167,7 +167,7 @@ Architecture: iphoneos-arm64
 Maintainer: Ethan Whited
 Installed-Size: 1060
 Depends: preferenceloader
-Filename: ./repo/debs/org.ewwad.airpodscompanion_1.2_iphoneos-arm64.deb
+Filename: ./debs/org.ewwad.airpodscompanion_1.2_iphoneos-arm64.deb
 Size: 460500
 MD5sum: da99c5d6ea589c1840d1908de3064d65
 SHA1: 7f2419d1c3b50696149e5b4ecb534ac39d146a1c
@@ -184,7 +184,7 @@ Architecture: iphoneos-arm64
 Maintainer: MTAC
 Installed-Size: 1112
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common
-Filename: ./repo/debs/org.ewwad.alpine_1.4_iphoneos-arm64.deb
+Filename: ./debs/org.ewwad.alpine_1.4_iphoneos-arm64.deb
 Size: 601576
 MD5sum: 110389f0341e38119715a9ea5dd0cd0e
 SHA1: b1efbe049dc69c2f5d9d4b144793cb6bce4b101f
@@ -201,7 +201,7 @@ Architecture: iphoneos-arm64
 Maintainer: Snail <mu514983786@gmail.com>
 Installed-Size: 728
 Depends: mobilesubstrate (>= 0.9.5000),preferenceloader,com.opa334.altlist
-Filename: ./repo/debs/org.ewwad.always120.global_1.1.4_iphoneos-arm64.deb
+Filename: ./debs/org.ewwad.always120.global_1.1.4_iphoneos-arm64.deb
 Size: 170088
 MD5sum: 82838f69bc8ddc558ed84a307b709b5f
 SHA1: 6b435ebaff54490536d1bb53da0dcdc4b9db33f8
@@ -218,7 +218,7 @@ Architecture: iphoneos-arm64
 Maintainer: AnthoPak <anthopakdev@gmail.com>
 Installed-Size: 1505
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 12.0)
-Filename: ./repo/debs/org.ewwad.lastlook_4.1.1_iphoneos-arm64.deb
+Filename: ./debs/org.ewwad.lastlook_4.1.1_iphoneos-arm64.deb
 Size: 426420
 MD5sum: 3e275e35f4d05d3c51fd72c93baaaae9
 SHA1: 5c9fc67b879776437fa60f22392da4bc6a35e84d
@@ -237,7 +237,7 @@ Architecture: iphoneos-arm64
 Maintainer: MTAC
 Installed-Size: 2604
 Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
-Filename: ./repo/debs/org.ewwad.lynxtwo_2.5_iphoneos-arm64.deb
+Filename: ./debs/org.ewwad.lynxtwo_2.5_iphoneos-arm64.deb
 Size: 567000
 MD5sum: c8ccc4a8945449e55c3b069516a78d32
 SHA1: 224d91c1e8c78e86e2d75467597868b0b2496963
@@ -254,7 +254,7 @@ Architecture: iphoneos-arm64
 Maintainer: yan
 Installed-Size: 596
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
-Filename: ./repo/debs/org.ewwad.ring_1.0_iphoneos-arm64.deb
+Filename: ./debs/org.ewwad.ring_1.0_iphoneos-arm64.deb
 Size: 121240
 MD5sum: afda1df37df84913ba0a53fb7039a328
 SHA1: 604474de53d918ab05d1bda8a25a714df9d4d9dc
@@ -271,7 +271,7 @@ Architecture: iphoneos-arm64
 Maintainer: Mystery
 Installed-Size: 908
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.17.0), firmware (>= 14.0)
-Filename: ./repo/debs/org.reo.ewwad_2.0.0_iphoneos-arm64.deb
+Filename: ./debs/org.reo.ewwad_2.0.0_iphoneos-arm64.deb
 Size: 333284
 MD5sum: 784559870cc37a1de7a6b5bee528ef55
 SHA1: c2e8c251ceeaa6042d925f2604851846f459ccef
@@ -288,7 +288,7 @@ Architecture: iphoneos-arm64
 Maintainer: sourcelocation
 Installed-Size: 920
 Depends: dev.theos.orion14, firmware (>= 14.0), com.opa334.ccsupport (>= 1.3.7), com.ginsu.comet
-Filename: ./repo/debs/ovh.exerhythm.cardculator_2.1.1_iphoneos-arm64.deb
+Filename: ./debs/ovh.exerhythm.cardculator_2.1.1_iphoneos-arm64.deb
 Size: 122692
 MD5sum: 5816e5011a297b6a5d86de9d79d91eab
 SHA1: c2e2e2303d9720e6e16e538fe11c7ab1bb8877ce
